@@ -1,0 +1,43 @@
+/*
+Jajuan Monroe
+Random Quote Generator
+August 2017
+*/
+body{
+  background-color: #white;
+  color: black;
+  font-family: Trebuchet MS;
+}
+
+#quote-panel{
+  border-style: solid;
+  background-color: #f8f8ff;
+  border-radius: 10px;
+}
+
+#quote-line{
+  font-size: 30px;
+  padding: 10px;
+}
+
+.btn-default{
+  border-style: solid;
+  border-color: black;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+#tweet-button{
+  background-color: #4099FF; 
+}
+
+h1{
+  font-size: 60px;
+  text-shadow: -2px 0 4px white, 0 -2px 4px white, 2px 0 4px white, 0 2px 4px white;
+}
+
+blockquote{
+  padding-left: 10px;
+}
+
